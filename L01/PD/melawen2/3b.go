@@ -4,11 +4,11 @@ import "fmt"
 
 func main() {
 	var level = 3
-	var hight = 3
+	var height = 3
 	var a = 2 * level
 
 	for i := 1; i <= level; i++ {
-		for j := i; j < hight + i; j++ {
+		for j := i; j < height + i; j++ {
 			for k := j + 1; k < 2 * i + a; k++ {
 				fmt.Printf(" ")
 			}
@@ -21,7 +21,7 @@ func main() {
 
 			fmt.Printf("\n")
 		}
-		hight++
+		height++
 		a = a - 2
 	}
 }
