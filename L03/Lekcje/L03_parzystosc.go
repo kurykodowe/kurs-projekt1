@@ -9,8 +9,8 @@ import (
 func main() {
 	number, _ := strconv.Atoi(os.Args[1])
 	if (number % 2 == 0) {
-		fmt.Println("Liczba parzysta")
+		fmt.Printf("%v: Liczba parzysta\n", number)
 	} else {
-		fmt.Println("Liczba nieparzysta")
+		fmt.Printf("%v: Liczba nieparzysta\n", number)
 	}
 }
