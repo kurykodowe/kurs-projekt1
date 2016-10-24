@@ -1,0 +1,15 @@
+package main
+
+const text = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultricies dui purus, ac luctus libero tempor ac. Etiam faucibus, sapien id vulputate porttitor, odio eros porttitor lectus, quis laoreet metus felis aliquet lorem. Suspendisse volutpat maximus mi vitae tristique. Nullam iaculis nunc ac venenatis ullamcorper. Etiam vitae egestas metus. Nam pharetra hendrerit facilisis. Morbi sed eros vitae felis sodales vehicula nec non dui. Aliquam nec hendrerit nunc. Cras non feugiat tortor, ac mollis mi.
+
+Donec eros purus, pharetra vitae justo vulputate, pretium tincidunt augue. Nullam vitae nisl libero. Etiam imperdiet enim nec sem vestibulum luctus. In hac habitasse platea dictumst. Aenean posuere nisl arcu, ut elementum nisi vestibulum eget. Morbi id magna eleifend, aliquet massa nec, suscipit nulla. Mauris sit amet maximus sem, et sodales augue. Mauris accumsan fermentum est, vel tincidunt arcu. Nunc commodo dui lacus, et tincidunt magna vulputate sed. Duis dui augue, lobortis eu quam eget, imperdiet elementum nulla. Vivamus eget ex nec erat sollicitudin euismod et in sapien. Integer rhoncus dolor sed nisi aliquam, vitae scelerisque ligula dignissim. Donec viverra lorem et risus dictum, non vehicula nisl tristique. Ut sagittis tempus neque, et lobortis erat iaculis imperdiet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+
+Maecenas et mi facilisis, ullamcorper ante maximus, pellentesque ex. Aliquam erat volutpat. Donec ex purus, tempor ut posuere at, malesuada id quam. Nullam in pellentesque orci. In hac habitasse platea dictumst. Suspendisse nisi turpis, rhoncus at nulla eget, euismod tincidunt lacus. Maecenas sit amet egestas tellus. Nullam nulla odio, sagittis ut elementum at, rhoncus vel nunc. Pellentesque eu lacus vitae dolor vehicula blandit. Aliquam erat volutpat. Sed in lorem urna.
+
+Etiam in ex volutpat, bibendum orci nec, ultrices sapien. Etiam luctus eros aliquam nunc commodo tristique. Etiam luctus sapien ut dolor auctor posuere. Curabitur venenatis ultrices tristique. In ac massa id risus tincidunt hendrerit. Ut eget vulputate nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer faucibus tortor non luctus vulputate. Vestibulum massa tellus, dapibus at nisi nec, ultrices vulputate magna. Maecenas in dignissim ligula. Nulla nec pharetra diam. Ut mi diam, facilisis mollis nibh et, blandit varius metus. Curabitur venenatis libero sem. Nulla porttitor libero arcu, vel elementum nulla egestas ut. Suspendisse laoreet elit id arcu bibendum consequat. Curabitur urna metus, lobortis ac suscipit at, faucibus vel sapien.
+
+Fusce suscipit nec sapien nec commodo. Nam nibh dui, viverra nec orci vitae, ultricies fringilla sapien. Praesent neque massa, aliquet eu molestie sit amet, aliquam at felis. Nulla maximus vestibulum volutpat. Duis imperdiet quis lectus ut eleifend. Aenean pharetra aliquet urna, et blandit felis. Etiam dictum, dolor vel efficitur rhoncus, felis mauris ultrices nunc, id finibus sem leo et dolor.`
+
+func main() {
+	//...
+}
